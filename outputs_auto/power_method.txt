@@ -1,0 +1,9 @@
+Método escolhido: Power Method
+AVISO: Ao menos uma componente do vetor inicial deve ser igual a unidade.
+Número de iterações: 10
+Autovalor(es) de A: 
+1.538519
+Autovetor(es) de A: 
+0.377445
+1.000000
+0.926057

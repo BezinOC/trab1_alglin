@@ -1,0 +1,2 @@
+Método escolhido: Regressão
+Para x = 2.1, temos P(2.1) = 0.6521633333333335

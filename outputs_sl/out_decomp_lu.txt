@@ -1,0 +1,7 @@
+Método escolhido: Decomposição LU
+AVISO: O método de decomposição LU não funciona para matrizes singulares
+O determinante da matriz é: 4.0
+O vetor X de saída é: 
+-1.0
+ 3.0
+-1.0

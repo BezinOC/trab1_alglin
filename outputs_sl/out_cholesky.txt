@@ -1,0 +1,7 @@
+Método escolhido: Cholesky
+AVISO: O método de Cholesky só funciona para matrizes simétricas positivas definidas
+O determinante da matriz é: 0.63
+O vetor X de saída é: 
+ 1.0
+ 0.0
+-1.0

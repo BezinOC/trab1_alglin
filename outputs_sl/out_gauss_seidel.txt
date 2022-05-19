@@ -1,0 +1,9 @@
+Método escolhido: Gauss-Seidel
+AVISO: O método de Gauss-Seidel só funciona se A for diagonal dominante
+O método escohido não permite o cálculo do determinante
+Número de iterações: 8
+Histórico da variaçāo do erro: [0.17541160386140578, 0.08650153315327813, 0.03455491777226667, 0.01562947289106503, 0.007000736802127335, 0.003158061306913203, 0.0014261617106545044, 0.0006446066544363259]
+O vetor X de saída é: 
+1.249114
+1.499320
+1.249478

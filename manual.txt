@@ -1,0 +1,21 @@
+TRABALHO 1)
+Para usar as funções do arquivo sistema_linear.py, basta preencher os valores das variáveis localizadas
+entre as linhas 229 e 234 e rodar. Além disso, é necessário que os arquivos de entrada estejam na pasta 
+inputs_sl, e os arquivos de saída estarão na pasta outputs_sl.
+OBS: filename_a corresponde ao nome do arquivo txt contendo a matriz A e filename_b corresponde ao
+nome do arquivo txt contendo o vetor B
+
+
+TRABALHO 2)
+Para usar as funções do arquivo sistema_linear.py, basta preencher os valores das variáveis localizadas
+entre as linhas 175 e 179. e rodar. Além disso, é necessário que os arquivos de entrada estejam na pasta 
+inputs_auto, e os arquivos de saída estarão na pasta outputs_auto
+OBS: filename_a corresponde ao nome do arquivo txt contendo a matriz A
+
+
+TRABALHO 1)
+Para usar as funções do arquivo sistema_linear.py, basta preencher os valores das variáveis localizadas
+entre as linhas 69 e 73 e rodar. Além disso, é necessário que os arquivos de entrada estejam na pasta 
+inputs_funcao, e os arquivos de saída estarão na pasta outputs_funcao
+OBS: filename_a corresponde ao nome do arquivo txt contendo o vetor de coordenadas X e filename_b corresponde
+ao nome do arquivo txt contendo o vetor d ecoordenadas Y.

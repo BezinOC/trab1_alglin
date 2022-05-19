@@ -1,0 +1,12 @@
+Método escolhido: Jacobi
+AVISO: O método de Jacobi só funciona para matrizes simétricas
+O determinante da matriz é: 0.710000000029161
+Número de iterações: 6
+Autovalor(es) de A: 
+1.000000
+1.538516
+0.461484
+Autovetor(es) de A: 
+ 9.284767e-01 0.262612  0.262614
+ 4.033365e-09 0.707110 -0.707103
+-3.713907e-01 0.656529  0.656535

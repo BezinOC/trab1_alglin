@@ -1,0 +1,2 @@
+Método escolhido: Interpolação
+Para x = 2.1, temos P(2.1) = 0.7465920000000001
